@@ -1,1 +1,1 @@
-# rusCream color theme
+# ruCream color theme

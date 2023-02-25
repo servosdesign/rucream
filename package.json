@@ -1,6 +1,6 @@
 {
-  "name": "rescream",
-  "displayName": "rusCream",
+  "name": "rucream",
+  "displayName": "ruCream",
   "description": "clean, minimal, cream",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "rusCream",
+        "label": "rucream",
         "uiTheme": "vs",
-        "path": "./themes/rusCream-color-theme.json"
+        "path": "./themes/ruCream-color-theme.json"
       }
     ]
   }
