@@ -2,8 +2,7 @@
 
 🍦 ruCream is a light mode, minimalistic, cream colored theme for vscode JavaScript applications and is heavily inspired by the [Ayu][] color themes. The base template of ruCream is a modification of the [Ayu Light][] theme's color choices while maintaining it's key concepts.
 
-🍬 Designed as a light creamy theme, inspired by the iconic Russian cream dessert color palette, consisting of reds, creams, whites, and the signature glass or white bowl, which gives a sleek, minimalistic, and even delicious feeling to the code. We'd suggest using the [Azeret Mono][] font with a size of 11px, as shown in our screenshots below, for a more delicious experience.
-
+Designed as a light creamy theme, inspired by the iconic Russian cream dessert color palette, consisting of reds, creams, whites, and the signature glass or white bowl, which gives a sleek, minimalistic, and even delicious feeling to the code. We'd suggest using the [Azeret Mono][] font with a size of 11px, as shown in our screenshots below, for a more delicious experience.
 
     Ingredients:
         - 1 envelope unflavored gelatin 🍮
@@ -14,7 +13,7 @@
         - 1/2 teaspoon vanilla extract 🥄
         - 1 package (10 ounces) frozen sweetened raspberries, thawed 🍓
         - Fresh raspberries and mint sprigs, optional 🌿
-        
+
    [Ayu]: https://github.com/ayu-theme
    [Ayu Light]: https://github.com/ayu-theme/vscode-ayu/blob/master/assets/light.png
    [Azeret Mono]: https://fonts.google.com/specimen/Azeret+Mono
