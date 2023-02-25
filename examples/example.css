@@ -2,16 +2,22 @@ section {
   margin: 0;
   float: left;
 }
+
 #questions {
   margin-left: 200px;
   margin-right: 200px;
   text-align: center;
 }
+
+.wrapper {
+  display: flex;
+}
+
 h3 {
   text-align: center;
 }
-label,
-input {
+
+label, input {
   padding: 4px;
 }
 

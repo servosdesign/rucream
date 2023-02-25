@@ -23,13 +23,9 @@ const randomizeData = () => {
     shuffle(randomizedQuestionBank)
   }
   randomizedQuestionBank = randomizedQuestionBank.slice(0, questionAmount)
-
-  /* Options */
-  for (let i = 0; i < randomizedQuestionBank.length; i++) {
-    randomizedOptionBank.push(randomizedQuestionBank[i].options)
-    shuffle(randomizedOptionBank[i])
-  }
 }
+
+
 
 
 
