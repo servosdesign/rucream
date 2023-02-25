@@ -4,7 +4,6 @@
 
 🍬 Designed as a light creamy theme, inspired by the iconic Russian cream dessert color palette, consisting of reds, creams, whites, and the signature glass or white bowl, which gives a sleek, minimalistic, and even delicious feeling to the code. We'd suggest using the [Azeret Mono][] font with a size of 11px, as shown in our screenshots below, for a more delicious experience.
 
-<span style="font-size:14px;">
 
     Ingredients:
         - 1 envelope unflavored gelatin 🍮
@@ -15,7 +14,7 @@
         - 1/2 teaspoon vanilla extract 🥄
         - 1 package (10 ounces) frozen sweetened raspberries, thawed 🍓
         - Fresh raspberries and mint sprigs, optional 🌿
-</span>
+        
    [Ayu]: https://github.com/ayu-theme
    [Ayu Light]: https://github.com/ayu-theme/vscode-ayu/blob/master/assets/light.png
    [Azeret Mono]: https://fonts.google.com/specimen/Azeret+Mono
@@ -37,11 +36,8 @@
 ------------------------------------------------
 
 ### Installation
-<span style="font-size:14px;">
-
     - Download file
     - Move file into user/.vscode/extensions (or wherever your extensions are located)
     - Open the added ruCream directory in vscode
     - Click the sidebar then Press `F5`to open a new window with the extension loaded.
     - Open `File > Preferences > Color Themes` and pick the ruCream theme.
-</span>
