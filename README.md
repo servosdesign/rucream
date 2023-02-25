@@ -1,8 +1,8 @@
 <!--p align="center"><img src="http://svgur.com/i/3Dp.svg"></p-->
 
-🍦 ruCream is a light mode, minimalistic, cream color theme for vscode JavaScript applications and is heavily inspired by [Ayu][]. the template of ruCream is just a modification of the [Ayu Light][] theme. 
+🍦 ruCream is a light mode, minimalistic, cream color theme for vscode JavaScript applications and is heavily inspired by the [Ayu][] color themes. The base template of ruCream is just a modification of the [Ayu Light][] theme's color choices while maintaining the same sleekness. 
 
-Designed as a light creamy theme that is inspired by the Russian cream dessert staple color palette consisting of reds, creams, whites, and the signature glass or white bowl. 
+Designed as a light creamy theme, inspired by the Russian cream dessert staple color palette consisting of reds, creams, whites, and the signature glass or white bowl, which gives a sleek, minimalistic, and even delicious feeling to the code look. We'd suggest using the [Azeret Mono][] font with a size of 11px as shown in our screenshots below.
 
     Ingredients:
         - 1 envelope unflavored gelatin 🍮
@@ -16,21 +16,25 @@ Designed as a light creamy theme that is inspired by the Russian cream dessert s
 
    [Ayu]: https://github.com/ayu-theme
    [Ayu Light]: https://github.com/ayu-theme/vscode-ayu/blob/master/assets/light.png
+   [Azeret Mono]: https://fonts.google.com/specimen/Azeret+Mono
+   [Screenshot JavaScript]: 
+   [Screenshot html]:
+   [Screenshot css]:
 
 ### Screenshots
 -----------
 
 #### ruCream
 
-![Screenshot Dark](http://i.imgur.com/GkIl8Fn.png)
-
-#### css
-
-![Screenshot Airline](http://i.imgur.com/wRQceUR.png)
+![Screenshot JavaScript](https://i.imgur.com/8RRyCvg.png)
 
 #### html
 
-![Screenshot Airline](http://i.imgur.com/wRQceUR.png)
+![Screenshot html](https://i.imgur.com/hQ2TAgZ.png)
+
+#### css
+
+![Screenshot css](https://i.imgur.com/XA7cfHm.png)
 ------------------------------------------------
 
 ### Installation

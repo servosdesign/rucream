@@ -1,0 +1,16 @@
+section {
+  margin: 0;
+  float: left;
+}
+#questions {
+  margin-left: 200px;
+  margin-right: 200px;
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+label,
+input {
+  padding: 4px;
+}
