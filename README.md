@@ -4,15 +4,15 @@
 
 Designed as a light creamy theme, inspired by the iconic Russian cream dessert color palette, consisting of reds, creams, whites, and the signature glass or white bowl, which gives a sleek, minimalistic, and even delicious feeling to the code. We'd suggest using the [Azeret Mono][] font with a size of 11px, as shown in our screenshots below, for a more delicious experience.
 
-    Ingredients:
-        - 1 envelope unflavored gelatin 🍮
-        - 1/2 cup cold water 💧
-        - 1 cup heavy whipping cream 🍦
-        - 3/4 cup sugar 🍬
-        - 1 cup sour cream 🥛
-        - 1/2 teaspoon vanilla extract 🥄
-        - 1 package (10 ounces) frozen sweetened raspberries, thawed 🍓
-        - Fresh raspberries and mint sprigs, optional 🌿
+    - Ингредиенты:
+        ∙ 1 пакетик желатина без запаха 🍮
+        ∙ 1/2 стакана холодной воды 💧
+        ∙ 1 чашка жирных взбитых сливок 🍦
+        ∙ 3/4 стакана сахара 🍬
+        ∙ 1 стакан сметаны 🥛
+        ∙ 1/2 чайной ложки ванильного экстракта 🥄
+        ∙ 1 упаковка (10 унций) замороженной подслащенной малины, размороженной 🍓
+        ∙ Свежая малина и веточки мяты, по желанию 🌿
 
    [Ayu]: https://github.com/ayu-theme
    [Ayu Light]: https://github.com/ayu-theme/vscode-ayu/blob/master/assets/light.png
