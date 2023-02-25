@@ -10,9 +10,8 @@ const colors = {
     templatePairs: '#55B4D4',
     attributeNames: '#F2AE49',
     keywordControl: '#FF7C7C',
-    css: 'Ayu light'
   },
   others: {
-    default: 'Ayu light'
+    //
   }
 }

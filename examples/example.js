@@ -31,19 +31,27 @@ const randomizeData = () => {
   }
 }
 
-const displayQuestions = (counter) => {
-  toggleButtons(counter)
-  let questionDisplay = ''
-  let optionsDisplay = ''
-  let optionDisplayArray = []
-  optionDisplayArray = (randomizedOptionBank[counter - 1])
 
-  questionDisplay += `<h3 class='questionOption'>${randomizedQuestionBank[counter - 1].question}</h3>`
 
-  for (let i = 0; i < optionDisplayArray.length; i++) {
-    optionsDisplay +=
-      `<input type='radio' id='radio${i}' name='quiz_questions${count}' value='${optionDisplayArray[i].correct}'>` +
-      `<label>${optionDisplayArray[i].text}</label>`
-  }
-  displayOptions(questionDisplay, optionsDisplay)
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
