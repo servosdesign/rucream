@@ -23,15 +23,15 @@ Designed as a light creamy theme, inspired by the iconic Russian cream dessert c
 
 #### ruCream
 
-![Screenshot JavaScript](https://i.imgur.com/8RRyCvg.png)
+![Screenshot JavaScript](https://imgur.com/gLf8p2U.png)
 
 #### html
 
-![Screenshot html](https://i.imgur.com/hQ2TAgZ.png)
+![Screenshot html](https://imgur.com/ZnXN0rU.png)
 
 #### css
 
-![Screenshot css](https://i.imgur.com/XA7cfHm.png)
+![Screenshot css](https://imgur.com/KLXkyhE.png)
 ------------------------------------------------
 
 ### Installation
