@@ -21,7 +21,7 @@ Designed as a light creamy theme, inspired by the iconic Russian cream dessert c
 ### Screenshots
 -----------
 
-#### ruCream
+#### javascript
 
 ![Screenshot JavaScript](https://imgur.com/gLf8p2U.png)
 
