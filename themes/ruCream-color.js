@@ -1,5 +1,5 @@
 const colors = {
-  vue: {
+  vueAndJs: {
     functions: '#FF7C7C',
     variables: '#5C6166',
     this: '#A7A7A7',
