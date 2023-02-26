@@ -42,8 +42,7 @@ Designed as a light and airy theme, inspired by the iconic Russian cream dessert
 ------------------------------------------------
 
 ### Installation
-    ∙ Download file
+    ∙ Download latest release
     ∙ Move file into user/.vscode/extensions (or wherever your extensions are located)
-    ∙ Open the added ruCream directory in vscode
-    ∙ Click the sidebar then Press `F5` to open a new window with the extension loaded.
     ∙ Open `File > Preferences > Color Themes` and pick the ruCream theme.
+    ∙ Close out the extension and enjoy the theme!
