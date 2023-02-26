@@ -1,5 +1,2 @@
 # Set default behavior to automatically normalize line endings.
 * text=auto
-
-/assets export-ignore
-/examples export-ignore

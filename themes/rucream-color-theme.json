@@ -1,5 +1,5 @@
 {
-	"$schema": "vscode://schemas/color-theme",
+	"name": "ruCream",
 	"type": "light",
 	"colors": {
 		"activityBar.activeBorder": "#ffaa33",
