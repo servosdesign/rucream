@@ -16,6 +16,11 @@
         "label": "ruCream",
         "uiTheme": "vs",
         "path": "./themes/rucream-color-theme.json"
+      },
+      {
+        "label": "ruCream Drab",
+        "uiTheme": "vs",
+        "path": "/themes/rucream-color-theme-drab.json"
       }
     ]
   },
