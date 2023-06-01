@@ -18,7 +18,8 @@ Designed as a light and airy theme, inspired by the iconic Russian cream dessert
    [Azeret Mono]: https://fonts.google.com/specimen/Azeret+Mono
 
 ### Screenshots
------------
+
+##
 
 <div align="center"> <h4> JavaScript </h4> </div>
 
@@ -32,25 +33,21 @@ Designed as a light and airy theme, inspired by the iconic Russian cream dessert
 
 ![Screenshot css](https://imgur.com/Hg4cVll.png)
 
-<div align="center"> <h4> Vue.js </h4> </div>
-
-![Screenshot vue](https://imgur.com/9bXxBnW.png)
-
-<div align="center"> <h4> React.js </h4> </div>
-
-![Screenshot react](https://imgur.com/DV6kZA7.png)
-------------------------------------------------
+##
 
 ### Installation
-    ∙ Download the vsix
-    ∙ In VS Code, select Install from VSIX... in the extension context menu
-    ∙ Select the downloaded rucream-1.0.0.vsix 
-    ∙ Open `File > Preferences > Color Themes` and pick the ruCream theme.
-    ∙ Enjoy the theme!
 
-    ∙ Download latest release
-    ∙ Move downloaded folder into user/.vscode/extensions 
-    ∙ Open `File > Preferences > Color Themes` and pick the ruCream theme.
-    ∙ Enjoy the theme!
-    ∙ If that doesn't work you can try to restart vscode and also disable and then re-enable all extensions. 
-    ∙ If both these don't work, follow the steps above to install from the vsix
+- **VSIX (Recommended):**
+    - Download the vsix
+    - In VS Code, select Install from VSIX... in the extension context menu
+    - Select the downloaded rucream-1.0.0.vsix 
+    - Open `File > Preferences > Color Themes` and pick the ruCream theme.
+    - Enjoy the theme!
+
+- **MANUAL:**
+    - Download latest release
+    - Move downloaded folder into user/.vscode/extensions 
+    - Open `File > Preferences > Color Themes` and pick the ruCream theme.
+    - Enjoy the theme!
+    - If that doesn't work you can try to restart vscode and also disable and then re-enable all extensions. 
+    - If both these don't work, follow the steps above to install from the vsix
