@@ -22,23 +22,23 @@ Designed as a light and airy theme, inspired by the iconic Russian cream dessert
 
 <div align="center"> <h4> JavaScript </h4> </div>
 
-![Screenshot JavaScript](https://imgur.com/i5mvoXI.png)
+![Screenshot JavaScript](https://imgur.com/Q8AEX2R.png)
 
 <div align="center"> <h4> HTML </h4> </div>
 
-![Screenshot html](https://imgur.com/yvPf5wk.png)
+![Screenshot html](https://imgur.com/oH4M10p.png)
 
 <div align="center"> <h4> CSS </h4> </div>
 
-![Screenshot css](https://imgur.com/Hg4cVll.png)
+![Screenshot css](https://imgur.com/v823ohS.png)
 
 <div align="center"> <h4> Vue.js </h4> </div>
 
-![Screenshot vue](https://imgur.com/9bXxBnW.png)
+![Screenshot vue](https://imgur.com/ZoLC79e.png)
 
 <div align="center"> <h4> React.js </h4> </div>
 
-![Screenshot react](https://imgur.com/DV6kZA7.png)
+![Screenshot react](https://imgur.com/n7k7u2a.png)
 ------------------------------------------------
 
 ### Installation
